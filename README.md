@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia de Software na Unicesumar <br>
-💻 Focado em Python e Desenvolvimento de Software
+💻 Focado em Python 
 </p>
 
 ---
